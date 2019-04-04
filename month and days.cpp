@@ -10,5 +10,5 @@ using namespace std;
  	cout << "its " << month <<" month"<<" and " << days <<" days"<< endl;
 	 
 	 return 0;
-	 
+	 //cdscmdnc;lanv;lkdsnvsac;lkamdsc
  }
